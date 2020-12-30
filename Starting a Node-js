@@ -7,3 +7,6 @@ Building a Node.js project
 4) Initialise npm with the fileName ( npm init )
 
 5) To open file on editor from commandline ( atom . )
+
+//use nodemon to auto load a server
+nodemon fileName
