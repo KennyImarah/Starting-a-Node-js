@@ -8,5 +8,7 @@ Building a Node.js project
 
 5) To open file on editor from commandline ( atom . )
 
+6) npm install express ( Using NPM install the express module )
+
 //use nodemon to auto load a server
 nodemon fileName
